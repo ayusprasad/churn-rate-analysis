@@ -1,0 +1,29 @@
+# Local datasets
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test and tooling output
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.cache/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
