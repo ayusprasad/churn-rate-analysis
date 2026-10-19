@@ -1,5 +1,3 @@
-from pathlib import Path
-
 from scripts.validate_notebooks import NOTEBOOK_DIRECTORY, validate_notebook
 
 NOTEBOOKS = [
